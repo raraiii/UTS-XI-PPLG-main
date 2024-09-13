@@ -4,9 +4,9 @@ import Content1 from "./components/content/Content1";
 import Content2 from "./components/content/Content2";
 import Content3 from "./components/content/Content3";
 import Content4 from "./components/content/Content4";
-import ChelseaCart from "./components/Cart/ChelseaCart";
-import CardView from "./view/CardView";
+import Riview from "./view/Riview";
 import Footer from "./view/Footer";
+
 export default function Home() {
   return (
     <div className="min-h-svh font-montserratV ">
@@ -19,7 +19,7 @@ export default function Home() {
         <Content2 />
         <Content3 />
         <Content4 />
-        <CardView />
+        <Riview />
         <Footer />
       </main>
       <footer></footer>
