@@ -2,6 +2,10 @@ import React from "react";
 import ChelseaCart from "../components/Cart/ChelseaCart";
 import NickCart from "../components/Cart/NickCart";
 import LanaCart from "../components/Cart/LanaCart";
+import GiorgioCart from "../components/Cart/GiorgioCart";
+import NajaeCart from "../components/Cart/NajaeCart";
+import JaneCart from "../components/Cart/JaneCart";
+import KatyCart from "../components/Cart/KatyCart";
 
 function CardView() {
   return (
@@ -13,9 +17,10 @@ function CardView() {
         <ChelseaCart />
         <NickCart />
         <LanaCart />
-        <LanaCart />
-        <NickCart />
-        <ChelseaCart />
+        <GiorgioCart />
+        <NajaeCart />
+        <JaneCart />
+        <KatyCart />
       </div>
     </div>
   );

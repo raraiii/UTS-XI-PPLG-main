@@ -1,6 +1,6 @@
 import React from "react";
 
-function ChelseaCart() {
+function KatyCart() {
   return (
     <div className="max-w-xs  flex flex-col p-1  rounded-xl space-y-4 shadow-md ">
       <img src="/Rating.png" alt="" width={100} height={100} />
@@ -22,4 +22,4 @@ function ChelseaCart() {
   );
 }
 
-export default ChelseaCart;
+export default KatyCart;
