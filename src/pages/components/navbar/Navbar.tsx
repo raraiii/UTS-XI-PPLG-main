@@ -30,7 +30,7 @@ function Navbar() {
       }`}
     >
       <div className="flex items-center justify-between">
-        <img src="/logo.png" alt="Logo" className="h-10" />
+        <img src="/Logo.png" alt="Logo" className="h-10" />
         <div className="space-x-8">
           <Link href="" className="hover:underline underline-offset-8">
             Product
