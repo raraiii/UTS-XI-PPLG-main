@@ -80,7 +80,7 @@ const ReviewsSection: React.FC = () => {
       name: "Na Jaemin",
       title: "Product Manager",
       company: "Google",
-      image: "Avatar-Na.png",
+      image: "Avatar-NaJaemin.png",
       review:
         "Phasellus ultricies nulla a orci scelerisque, eget tincidunt magna volutpat...",
     },
